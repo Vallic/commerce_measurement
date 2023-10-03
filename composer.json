@@ -1,0 +1,13 @@
+{
+    "name": "drupal/commerce_measurement",
+    "type": "drupal-module",
+    "description": "Commerce Core condition from physical measurement fields such as physical weight and volume.",
+    "homepage": "https://drupal.org/project/commerce_measurement",
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "drupal/commerce": "^2.3",
+        "drupal/physical": "^1.0"
+    }
+}
