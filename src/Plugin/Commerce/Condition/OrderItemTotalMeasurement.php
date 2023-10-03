@@ -5,7 +5,7 @@ namespace Drupal\commerce_measurement\Plugin\Commerce\Condition;
 use Drupal\Core\Entity\EntityInterface;
 
 /**
- * Provides the total discounted product quantity condition.
+ * Provides the total measurement amount condition.
  *
  * @CommerceCondition(
  *   id = "order_total_measurement",
