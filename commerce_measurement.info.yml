@@ -1,7 +1,7 @@
 name: 'Commerce Measurement Condition'
 type: module
 description: 'Commerce Core condition from physical measurement fields such as physical weight and volume.'
-core_version_requirement: ^9 || ^10
+core_version_requirement: ^9 || ^10 || ^11
 package: Commerce (Contrib)
 
 dependencies:
