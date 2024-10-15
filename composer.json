@@ -6,8 +6,7 @@
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "require": {
-        "php": "^8.0",
-        "drupal/commerce": "^2.3",
+        "drupal/commerce": "^3.0",
         "drupal/physical": "^1.0"
     }
 }
