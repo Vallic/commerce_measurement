@@ -2,13 +2,13 @@
 
 namespace Drupal\commerce_measurement\Plugin\Commerce\Condition;
 
-use Drupal\commerce\Plugin\Commerce\Condition\ConditionBase;
 use Drupal\Component\Utility\Html;
 use Drupal\Component\Utility\NestedArray;
 use Drupal\Core\Entity\EntityFieldManagerInterface;
 use Drupal\Core\Entity\EntityTypeManagerInterface;
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Plugin\ContainerFactoryPluginInterface;
+use Drupal\commerce\Plugin\Commerce\Condition\ConditionBase;
 use Drupal\physical\MeasurementType;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
