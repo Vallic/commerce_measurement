@@ -12,8 +12,8 @@ use Drupal\commerce\Attribute\CommerceCondition;
 #[CommerceCondition(
     id: "order_total_measurement",
     label: new TranslatableMarkup("Total product measurements"),
-    category: new TranslatableMarkup("Products"),
     entity_type: "commerce_order",
+    category: new TranslatableMarkup("Products"),
 )]
 class OrderItemTotalMeasurement extends MeasurementBaseCondition {
 
