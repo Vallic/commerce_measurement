@@ -7,6 +7,6 @@
     "minimum-stability": "dev",
     "require": {
         "drupal/commerce": "^2.4 || ^3",
-        "drupal/physical": "^1.0"
+        "drupal/physical": "^1.5"
     }
 }
